@@ -11,8 +11,10 @@
    <br>If you forget to fork, or if you fork but forget to clone FROM YOUR COPY you cannot push your changes to Github and save your progress.
    <br>Remember: 
    <br>  git clone [url of the repo here]
+
+   DO A SILLY DANCE!
    
-# 3) Make your changes to the code and commit often
+# 3) Make your changes to the code and commit often 
    Work on your project and remember to commit often.
    <br>Remember:
    <br> git status
@@ -26,3 +28,5 @@
     
 # 4.5 ) Push a few times a day
    You can push as many times as you need to. I would recommend commiting (see step 3) several times a day, and pushing once or twice (when you've finished a significant junk of code)
+
+   
